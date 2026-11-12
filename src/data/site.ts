@@ -30,18 +30,18 @@ export const site = {
       "Receitas feitas à mão, com chocolate de verdade e muito afeto — para adoçar o seu dia ou a sua festa.",
     botao: "Encomendar pelo WhatsApp",
     imagem: "/images/hero.jpg",
-    imagemAlt: "Mesa com doces artesanais de chocolate sobre toalha rosa-clara",
+    imagemAlt: "Bandeja de docinhos variados de festa",
   },
 
   /** Vitrine de produtos */
   produtos: [
-    { nome: "Brigadeiro gourmet", descricao: "Chocolate belga, cremoso e finalizado com granulado nobre.", imagem: "/images/produto-1.jpg", alt: "Brigadeiros gourmet em forminhas de papel" },
-    { nome: "Brownie", descricao: "Casquinha crocante por fora, úmido e intenso por dentro.", imagem: "/images/produto-2.jpg", alt: "Pedaços de brownie de chocolate empilhados" },
-    { nome: "Bolo de pote", descricao: "Camadas de massa fofinha e recheio generoso, no potinho.", imagem: "/images/produto-3.jpg", alt: "Bolo de pote com camadas de chocolate e creme" },
-    { nome: "Cone recheado", descricao: "Casquinha de chocolate cheia de brigadeiro cremoso.", imagem: "/images/produto-4.jpg", alt: "Cone de chocolate recheado com brigadeiro" },
-    { nome: "Caixa de docinhos para festa", descricao: "Seleção sortida para aniversários e celebrações.", imagem: "/images/produto-5.jpg", alt: "Caixa com docinhos sortidos para festa" },
-    { nome: "Trufas", descricao: "Recheios variados envoltos em chocolate ao leite ou meio amargo.", imagem: "/images/produto-6.jpg", alt: "Trufas de chocolate embrulhadas" },
-    { nome: "Bem-casado", descricao: "Pão de ló delicado com doce de leite, embalado à mão.", imagem: "/images/produto-7.jpg", alt: "Bem-casados embalados em papel crepom" },
+    { nome: "Brigadeiro gourmet", descricao: "Chocolate belga, cremoso e finalizado com granulado nobre.", imagem: "/images/produto-1.jpg", alt: "Brigadeiros gourmet com granulado de chocolate" },
+    { nome: "Brownie", descricao: "Casquinha crocante por fora, úmido e intenso por dentro.", imagem: "/images/produto-2.jpg", alt: "Pilha de brownies de chocolate" },
+    { nome: "Bolo de pote", descricao: "Camadas de massa fofinha e recheio generoso, no potinho.", imagem: "/images/produto-3.jpg", alt: "Bolo de pote de chocolate com colher de madeira" },
+    { nome: "Cone recheado", descricao: "Casquinha de chocolate cheia de brigadeiro cremoso.", imagem: "/images/produto-4.jpg", alt: "Cones de chocolate com confeitos coloridos" },
+    { nome: "Caixa de docinhos para festa", descricao: "Seleção sortida para aniversários e celebrações.", imagem: "/images/produto-5.jpg", alt: "Caixa aberta com docinhos variados para festa" },
+    { nome: "Trufas", descricao: "Recheios variados envoltos em chocolate ao leite ou meio amargo.", imagem: "/images/produto-6.jpg", alt: "Trufas e bombons de chocolate" },
+    { nome: "Mesa de doces", descricao: "Macarons, bombons e docinhos finos para decorar sua festa.", imagem: "/images/produto-7.jpg", alt: "Mesa de doces com macarons, bombons e docinhos finos" },
     { nome: "Pudim", descricao: "Lisinho, sem furinhos, com calda de caramelo dourada.", imagem: "/images/produto-8.jpg", alt: "Pudim de leite com calda de caramelo" },
   ],
 
@@ -60,7 +60,7 @@ export const site = {
       "Hoje seguimos do mesmo jeito: ingredientes selecionados, produção pequena e atenção a cada detalhe — porque doce bom é aquele que vira lembrança.",
     ],
     imagem: "/images/sobre.jpg",
-    imagemAlt: "Mãos preparando brigadeiros em uma bancada de cozinha",
+    imagemAlt: "Mãos misturando creme em chocolate derretido",
   },
 
   /** Perguntas frequentes */
